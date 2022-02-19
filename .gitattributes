@@ -1,0 +1,2 @@
+*_Albedo.asset filter=lfs diff=lfs merge=lfs -text
+*_RoughnessNormalAO.asset filter=lfs diff=lfs merge=lfs -text
