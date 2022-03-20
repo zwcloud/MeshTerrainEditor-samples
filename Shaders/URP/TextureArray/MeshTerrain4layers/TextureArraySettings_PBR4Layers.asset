@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: TextureArraySettings_PBR4Layers
   m_EditorClassIdentifier: 
   textureMode: 2
-  TextureArrayName: Texture2DArrayPBR4Layers
+  TextureArrayName: Texture2DArrayPBR4Layers.big
   TextureFormat: 4
   TextureSize: 1024
   Layers:
