@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b411d6a3be994104b87bbb2cfb928c3c, type: 3}
+  m_Name: TextureArraySettings_PBR4Layers
+  m_EditorClassIdentifier: 
+  textureMode: 3
+  TextureArrayName: Texture2DArrayPBR4Layers
+  TextureSize: 1024
+  Layers:
+  - Albedo: {fileID: 2800000, guid: 8643cd8094cd27f4eb043030aff32971, type: 3}
+    Roughness: {fileID: 2800000, guid: 28e0df581eeae8149ba13e281b7d3a86, type: 3}
+    Normal: {fileID: 2800000, guid: fba9660bf8b25614bbc3000242a65796, type: 3}
+    AO: {fileID: 2800000, guid: a00caa94c41e19840aabf39a8254af6f, type: 3}
+    Height: {fileID: 0}
+    Metallic: {fileID: 0}
+    AOScalar: 1
+    MetallicScalar: 0
+    RoughnessScalar: 1
+    TextureScale: {x: 1, y: 1}
+    TextureOffset: {x: 1, y: 1}
+    NormalScale: 1
+    SpecularColor: {r: 0, g: 0, b: 0, a: 0}
+  - Albedo: {fileID: 2800000, guid: eebcf852bb81aee43ac6a8f621d7a09c, type: 3}
+    Roughness: {fileID: 2800000, guid: fddd3acb9575c7d4aab9cd41e2f75a61, type: 3}
+    Normal: {fileID: 2800000, guid: bb979485231b7594892ec243d6eccec3, type: 3}
+    AO: {fileID: 2800000, guid: 3a456495ee3879748bcf45f2e4fc133b, type: 3}
+    Height: {fileID: 0}
+    Metallic: {fileID: 0}
+    AOScalar: 1
+    MetallicScalar: 0
+    RoughnessScalar: 1
+    TextureScale: {x: 1, y: 1}
+    TextureOffset: {x: 1, y: 1}
+    NormalScale: 1
+    SpecularColor: {r: 0, g: 0, b: 0, a: 0}
+  - Albedo: {fileID: 2800000, guid: aadbc62057a8fb84998aebc4686e9847, type: 3}
+    Roughness: {fileID: 2800000, guid: d6002c0af377d054e9844e1b3b3212c9, type: 3}
+    Normal: {fileID: 2800000, guid: dea3d2ecf5a417f43a27fedf002ea85b, type: 3}
+    AO: {fileID: 2800000, guid: dc4184a14b1d928408d39753f1cb1e68, type: 3}
+    Height: {fileID: 0}
+    Metallic: {fileID: 0}
+    AOScalar: 1
+    MetallicScalar: 0
+    RoughnessScalar: 1
+    TextureScale: {x: 1, y: 1}
+    TextureOffset: {x: 1, y: 1}
+    NormalScale: 1
+    SpecularColor: {r: 0, g: 0, b: 0, a: 0}
+  - Albedo: {fileID: 2800000, guid: b86ddee125e0f40429fbf81dcc9da603, type: 3}
+    Roughness: {fileID: 2800000, guid: df4b7ee3feb3afe4ba6e41a58e8f3184, type: 3}
+    Normal: {fileID: 2800000, guid: 795b474af71237b49971483f60ee6f16, type: 3}
+    AO: {fileID: 2800000, guid: a925ef27bf6cc7e4fa73c39c59ec7d06, type: 3}
+    Height: {fileID: 0}
+    Metallic: {fileID: 0}
+    AOScalar: 1
+    MetallicScalar: 0
+    RoughnessScalar: 1
+    TextureScale: {x: 1, y: 1}
+    TextureOffset: {x: 1, y: 1}
+    NormalScale: 1
+    SpecularColor: {r: 0, g: 0, b: 0, a: 0}
+  Array0Settings:
+    compressed: 1
+    textureFormat: 47
+    textureCompressionQuality: 50
+    wrapMode: 0
+    filterMode: 1
+    anisoLevel: 0
+  Array1Settings:
+    compressed: 1
+    textureFormat: 47
+    textureCompressionQuality: 50
+    wrapMode: 0
+    filterMode: 1
+    anisoLevel: 0
