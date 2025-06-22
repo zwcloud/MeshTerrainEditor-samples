@@ -69,15 +69,15 @@ MonoBehaviour:
     NormalScale: 1
     SpecularColor: {r: 0, g: 0, b: 0, a: 0}
   Array0Settings:
-    compressed: 1
-    textureFormat: 47
+    compressed: 0
+    textureFormat: 4
     textureCompressionQuality: 50
     wrapMode: 0
     filterMode: 1
     anisoLevel: 0
   Array1Settings:
-    compressed: 1
-    textureFormat: 47
+    compressed: 0
+    textureFormat: 4
     textureCompressionQuality: 50
     wrapMode: 0
     filterMode: 1
